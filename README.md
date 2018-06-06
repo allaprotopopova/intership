@@ -2,5 +2,5 @@
 Summer intership 2018
 
 
-База MySql, schema=test, user=root/root
-Запускался под TomCat
+DB MySql, schema=test, user=root/root
+Works with TomCat
